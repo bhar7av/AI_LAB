@@ -1,0 +1,14 @@
+AI LAB INDEX
+============
+
+Lab 1  - Linear Regression using Gradient Descent
+Lab 2  - DFS, BFS and A* Search
+Lab 3  - Logistic Regression using Gradient Descent
+Lab 4  - 8-Puzzle, 8-Queens and Tic-Tac-Toe
+Lab 5  - Minimax Algorithm for Game Playing
+Lab 6  - Single-Layer Neural Network (Perceptron)
+Lab 7  - Forward Chaining and Backward Chaining
+Lab 8  - Genetic Algorithm
+
+Each lab folder includes README.md (aim, tasks/questions, and run instructions)
+and main.py (the implementation with comments).
